@@ -8,7 +8,7 @@ $ pip3 install paho-mqtt
 $ pip3 install opencv-python
 ```
 ## USE
-### Publish video strem
+### Publish video stream
 To publish video frames with OpenCV over MQTT:
 ```
 $ python3 Stream_publisher.py 
